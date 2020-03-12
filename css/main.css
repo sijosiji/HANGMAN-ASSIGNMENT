@@ -1,12 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
 
 body {
-	background: url('http://www.writteninpencil.de/Projekte/Hangman/hangman-bg.png') fixed;
+	background white-space:  fixed;
 	text-align: center;
 	font-family: Helvetica, sans-serif;
 }
 input {
-	border: 2px solid #999;
+	border: 2px solid white;
 	font-family: Helvetica, sans-serif;
 	color: #999;
 }
